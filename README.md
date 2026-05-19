@@ -174,7 +174,7 @@ SSB mock test portal under Colonel PP Vyas (Retd.) — deployed on GitHub Pages.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parthivjp&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=parthivjp&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -185,10 +185,7 @@ SSB mock test portal under Colonel PP Vyas (Retd.) — deployed on GitHub Pages.
 | 🏆 Certificate | 🏛️ Issuer | 📅 Year |
 |----------------|-----------|---------|
 | ☁️ **Cloud Computing** — *Elite* (Score: 76% \| 25/25 Assignments) | NPTEL — IIT Kharagpur | Jan–Apr 2026 |
-| ⛓️ **Ethereum Fundamentals Program** | Kerala Blockchain Academy (KBA) | Apr 2026 |
 | 🔗 **Blockchain Foundation Program** | Kerala Blockchain Academy (KBA) | Apr 2026 |
-| 🌐 **Hashgraph Developer Course** | The Hashgraph Association (Built on Hedera) | Dec 2025 |
-| 🟠 **AWS Academy Cloud Developing** — *Trained* | Amazon Web Services (AWS Academy) | 2025 |
 | 🟢 **MERN Stack Development** | Apna College | 2025 |
 | 🎨 **Web Design** | Great Learning | 2023 |
 | ☕ **Java (Basic)** | HackerRank | 2023 |
@@ -200,7 +197,7 @@ SSB mock test portal under Colonel PP Vyas (Retd.) — deployed on GitHub Pages.
 | Degree | Institute | Score | Year |
 |--------|-----------|-------|------|
 | B.Tech — Computer Engineering | CHARUSAT University | CGPA: 7.76/10 | 2024–2027 |
-| Diploma — Computer Engineering | UPL University | CGPA: 9.86/10 — 🏆 Top 1% | 2021–2024 |
+| Diploma — Computer Engineering | UPL University | CGPA: 9.86/10 — 🏆 Top 5% | 2021–2024 |
 
 ---
 
