@@ -169,10 +169,10 @@ SSB mock test portal under Colonel PP Vyas (Retd.) — deployed on GitHub Pages.
 
 <div align="center">
 
-<table><tr>
+<!-- <table><tr>
 <td><img src="https://github-readme-stats.vercel.app/api?username=parthivjp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/></td>
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthivjp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="165"/></td>
-</tr></table>
+</tr></table> -->
 
 <img src="https://streak-stats.demolab.com/?user=parthivjp&theme=tokyonight&hide_border=true&card_width=500" height="165"/>
 
