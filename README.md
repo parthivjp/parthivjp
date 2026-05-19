@@ -200,7 +200,7 @@ SSB mock test portal under Colonel PP Vyas (Retd.) — deployed on GitHub Pages.
 | Degree | Institute | Score | Year |
 |--------|-----------|-------|------|
 | B.Tech — Computer Engineering | CHARUSAT University | CGPA: 7.76/10 | 2024–2027 |
-| Diploma — Computer Engineering | UPL University | CGPA: 9.86/10 — 🏆 Top 5% | 2021–2024 |
+| Diploma — Computer Engineering | UPL University | CGPA: 9.86/10 — 🏆 Top 1% | 2021–2024 |
 
 ---
 
