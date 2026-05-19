@@ -182,11 +182,16 @@ SSB mock test portal under Colonel PP Vyas (Retd.) — deployed on GitHub Pages.
 
 ## 🏅 Certifications
 
-| Certificate | Platform | Year |
-|-------------|----------|------|
-| 🟢 MERN Stack Development | Apna College | 2025 |
-| 🎨 Web Design | Great Learning | 2023 |
-| ☕ Java (Basic) | HackerRank | 2023 |
+| 🏆 Certificate | 🏛️ Issuer | 📅 Year |
+|----------------|-----------|---------|
+| ☁️ **Cloud Computing** — *Elite* (Score: 76% \| 25/25 Assignments) | NPTEL — IIT Kharagpur | Jan–Apr 2026 |
+| ⛓️ **Ethereum Fundamentals Program** | Kerala Blockchain Academy (KBA) | Apr 2026 |
+| 🔗 **Blockchain Foundation Program** | Kerala Blockchain Academy (KBA) | Apr 2026 |
+| 🌐 **Hashgraph Developer Course** | The Hashgraph Association (Built on Hedera) | Dec 2025 |
+| 🟠 **AWS Academy Cloud Developing** — *Trained* | Amazon Web Services (AWS Academy) | 2025 |
+| 🟢 **MERN Stack Development** | Apna College | 2025 |
+| 🎨 **Web Design** | Great Learning | 2023 |
+| ☕ **Java (Basic)** | HackerRank | 2023 |
 
 ---
 
