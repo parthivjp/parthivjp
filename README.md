@@ -21,7 +21,7 @@
 
 ```javascript
 const parthiv = {
-  role:        "Pre-Final Year CS Engineering Student @ CHARUSAT",
+  role:        "Pre-Final Year Computer Engineering Student @ CHARUSAT",
   focus:       ["Full-Stack Development", "React.js", "Node.js", "MySQL"],
   shipped:     ["2 Internships", "1 Freelance Client Delivery", "3 Live Projects"],
   currentlyAt: "Building production-ready, role-based web applications",
