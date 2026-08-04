@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parthiv%20Panchal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20CE%20Engineer%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parthiv%20Panchal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineer%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Parthiv+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%2B+Node.js;Building+real+products+that+ship+%F0%9F%9A%80;Open+to+SDE+Roles+%E2%80%94+Let%27s+Connect!)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@
 
 ```javascript
 const parthiv = {
-  role:        "Pre-Final Year CE Student @ CHARUSAT",
+  role:        "Pre-Final Year Computer Engineering Student @ CHARUSAT",
   focus:       ["Full-Stack Development", "React.js", "Node.js", "MySQL"],
   shipped:     ["2 Internships", "1 Freelance Client Delivery", "3 Live Projects"],
   currentlyAt: "Building production-ready, role-based web applications",
